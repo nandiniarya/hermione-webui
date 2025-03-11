@@ -1,6 +1,7 @@
 # Hermione Granger Web UI
 
 ## 📌 Overview
+https://openwebui.com/m/nandini27/hermione-granger
 Hermione Granger Web UI is an AI-powered assistant designed to embody the intelligence, ethical values, and problem-solving abilities of Hermione Granger. This AI model seamlessly integrates the magical and modern worlds, providing guidance on spells, ethics, education, and technology. Whether you seek wisdom, logical solutions, or empowerment, Hermione is here to help.
 
 ---
