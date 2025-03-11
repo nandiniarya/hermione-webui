@@ -46,7 +46,8 @@ Hermione Granger Web UI is an AI-powered assistant designed to embody the intell
 
 ---
 📜 Sample Interactions
-[Screencast from 10-03-25 01_58_17 PM IST.webm]
+
+(https://github.com/user-attachments/assets/ef4aa237-24b9-4e0c-af60-94359f35a34f)
 
 
 
